@@ -1,2 +1,2 @@
 # srt_validator
-small hacky program to validate srt files
+Small quick and dirty program to validate .srt files. Prints the parsed file contents. Panics if the srt file is formatted incorrectly.
